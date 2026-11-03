@@ -54,7 +54,7 @@ function App() {
               into useful products.
             </h1>
             <p className="hero-intro">
-              I’m <strong>Michael O. Udarbe Jr</strong>, a software engineer focused on mobile experiences,
+              I’m <strong>Michael O. Udarbe Jr.</strong>, a software engineer focused on mobile experiences,
               computer vision, and practical AI systems built for real-world use.
             </p>
             <div className="hero-actions">
@@ -81,7 +81,7 @@ function App() {
             <div className="console-topbar"><span /><span /><span /><small>profile.ts</small></div>
             <div className="console-body">
               <span className="code-muted">const</span> <span className="code-accent">engineer</span> = {'{'}
-              <div><span className="code-key">name</span>: <span className="code-string">'Michael Udarbe'</span>,</div>
+              <div><span className="code-key">name</span>: <span className="code-string">'Michael O. Udarbe Jr.'</span>,</div>
               <div><span className="code-key">focus</span>: [<span className="code-string">'mobile'</span>, <span className="code-string">'vision'</span>, <span className="code-string">'AI'</span>],</div>
               <div><span className="code-key">principle</span>: <span className="code-string">'build for people'</span>,</div>
               <div><span className="code-key">status</span>: <span className="code-string">'ready to collaborate'</span></div>
@@ -222,7 +222,7 @@ function App() {
       </main>
 
       <footer>
-        <span>Michael O. Udarbe Jr</span>
+        <span>Michael O. Udarbe Jr.</span>
         <span>Designed and engineered in the Philippines · {new Date().getFullYear()}</span>
       </footer>
 

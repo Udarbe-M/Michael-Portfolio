@@ -76,8 +76,8 @@ def draw_project(
 def build_resume() -> None:
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     pdf = canvas.Canvas(str(OUTPUT), pagesize=letter)
-    pdf.setTitle("Michael O. Udarbe Jr - Software Engineer")
-    pdf.setAuthor("Michael O. Udarbe Jr")
+    pdf.setTitle("Michael O. Udarbe Jr. - Software Engineer")
+    pdf.setAuthor("Michael O. Udarbe Jr.")
     pdf.setSubject("Software engineering resume")
     width, height = letter
 
@@ -90,7 +90,7 @@ def build_resume() -> None:
 
     pdf.setFillColor(HexColor("#FFFFFF"))
     pdf.setFont("Helvetica-Bold", 21)
-    pdf.drawString(59, height - 52, "MICHAEL O. UDARBE JR")
+    pdf.drawString(59, height - 52, "MICHAEL O. UDARBE JR.")
     pdf.setFillColor(HexColor("#A8D8D1"))
     pdf.setFont("Helvetica", 10.5)
     pdf.drawString(59, height - 72, "SOFTWARE ENGINEER")

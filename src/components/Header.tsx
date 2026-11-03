@@ -14,10 +14,10 @@ export function Header() {
 
   return (
     <header className="site-header">
-      <a className="brand" href="#home" aria-label="Michael Udarbe portfolio home">
+      <a className="brand" href="#home" aria-label="Michael O. Udarbe Jr. portfolio home">
         <span className="brand-mark">MU</span>
         <span className="brand-copy">
-          Michael Udarbe
+          Michael O. Udarbe Jr.
           <small>Software Engineer</small>
         </span>
       </a>

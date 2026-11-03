@@ -1,6 +1,6 @@
-# Michael O. Udarbe Jr — Portfolio
+# Michael O. Udarbe Jr. — Portfolio
 
-A cinematic, accessible portfolio for Michael O. Udarbe Jr, built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, and Three.js.
+A cinematic, accessible portfolio for Michael O. Udarbe Jr., built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, and Three.js.
 
 ## Commands
 
